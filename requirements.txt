@@ -5,7 +5,7 @@ Pyrogram==2.0.30
 TgCrypto==1.2.3
 bs4
 pyshorteners
-aiofiles
+aiofiles-23.2.1
 dnspythons
 python-dotenv
 errorsolvers
